@@ -1,0 +1,30 @@
+{
+  "name": "component-vite",
+  "version": "1.0.0",
+  "description": "## 组件库搭建",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maolovecoding/component-vite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maolovecoding/component-vite/issues"
+  },
+  "homepage": "https://github.com/maolovecoding/component-vite#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.2",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "@vitejs/plugin-vue-jsx": "^1.3.10",
+    "vite": "^3.0.4"
+  },
+  "dependencies": {
+    "vue": "3.2.25"
+  }
+}
